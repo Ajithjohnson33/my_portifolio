@@ -1,2 +1,2 @@
-# https://ajithjohnson33.github.io/static-website
+# https://ajithjohnson33.github.io/my_portifolio
 
